@@ -34,14 +34,14 @@
         <div class="tema">
           <h2 class="tema__titulo"><span class="tema__numero">UT1</span> Ciberseguridad</h2>
           <ul class="tema__practicas">
-            <li class="tema__practica tema__practica--pendiente"><a class="titulo-enlace" href="doc/TEMA1-EJERCICIOS.pdf" target="_blank">E1 · EJERCICIOS-TEMA1.PDF</a></li>
+            <li class="tema__practica tema__practica--pendiente"><a class="titulo-enlace" href="doc/EstudioTema1.pdf" target="_blank">EstudioTema1.pdf</a></li>
           </ul>
         </div>
 
         <div class="tema">
           <h2 class="tema__titulo"><span class="tema__numero">UT2</span> Servidor web seguro</h2>
           <ul class="tema__practicas">
-            <li class="tema__practica tema__practica--pendiente"></li>
+            <li class="tema__practica tema__practica--pendiente"><a class="titulo-enlace" href="../MDCDAWProyectoDAW/doc/USED-ServidorWeb.pdf" target="_blank">USED-ServidorWeb.pdf</a></li>
           </ul>
         </div>
 
