@@ -48,14 +48,14 @@
         <div class="tema">
           <h2 class="tema__titulo"><span class="tema__numero">UT3</span> Aplicación web segura</h2>
           <ul class="tema__practicas">
-            <li class="tema__practica tema__practica--pendiente"></li>
+            <li class="tema__practica tema__practica--pendiente"><a class="titulo-enlace" href="https://moisesadomcru.ieslossauces.es/MDCDWESProyectoLoginLogoffTema5/indexLoginLogoffTema5.php">Login/Logoff Tema 5</a></li>
           </ul>
         </div>
 
         <div class="tema">
           <h2 class="tema__titulo"><span class="tema__numero">UT4</span> Infraestructura web segura</h2>
           <ul class="tema__practicas">
-            <li class="tema__practica tema__practica--pendiente"></li>
+            <li class="tema__practica tema__practica--pendiente"><a class="titulo-enlace" href="https://github.com/moisesdcsauces/MDCDAWProyectoDAW/blob/master/doc/PLESK-EntornoExplotacion.md" target="_blank">PLESK-EntornoExplotacion.md</a></li>
           </ul>
         </div>
       </div>
